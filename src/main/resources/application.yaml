@@ -1,0 +1,5 @@
+spring:
+# ????????Spring Boot ???? classpath:/templates/
+  mvc:
+    view:
+      prefix: classpath:/templates/
